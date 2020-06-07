@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Abonents>
+  <Abonent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <surname>Федоров</surname>
+    <district>Ленинский</district>
+    <address>пр-кт Гагарина, 72</address>
+    <phone>89123456789</phone>
+    <contractNum>245434</contractNum>
+    <dateContract>02.06.2020</dateContract>
+    <installPayment>false</installPayment>
+    <subPayment>1200</subPayment>
+    <dateLastPay>04.06.2020</dateLastPay>
+  </Abonent>
+  <Abonent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <surname>Григорьев</surname>
+    <district>Промышленный</district>
+    <address>ул Кирова, 34</address>
+    <phone>89156477417</phone>
+    <contractNum>1345</contractNum>
+    <dateContract>04.03.2019</dateContract>
+    <installPayment>true</installPayment>
+    <subPayment>1500</subPayment>
+    <dateLastPay>04.06.2020</dateLastPay>
+  </Abonent>
+  <Abonent>
+    <surname>Комаров</surname>
+    <district>Дальний</district>
+    <address>ул Энгельса 12</address>
+    <phone>8914545464</phone>
+    <contractNum>2433556</contractNum>
+    <dateContract>2017-06-01T00:00:00</dateContract>
+    <installPayment>true</installPayment>
+    <subPayment>1500</subPayment>
+    <dateLastPay>2020-06-01T00:00:00</dateLastPay>
+  </Abonent>
+</Abonents>
